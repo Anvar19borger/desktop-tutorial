@@ -9,7 +9,7 @@ public class Intro {
         //System.out.println("Let me introduce myself");
         introduce();
         System.out.println("Hulio Iglesias");
-// pischi
+
 // Don't Repeat Yourself
     }
     public static void introduce(){
