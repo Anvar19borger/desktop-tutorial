@@ -1,5 +1,5 @@
 package consultation.city;
-///12313123
+
 import java.util.Objects;
 
 public class City implements Comparable<City> {
